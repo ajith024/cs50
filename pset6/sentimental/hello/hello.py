@@ -1,5 +1,3 @@
 def main():
-    print("hello, world")
-
-if __name__ == "__main__":
-    main()
+        answer = get_string("What's your name?\n")
+        print("hello, " + answer)
